@@ -1,0 +1,15 @@
+IMiraclePill Project OUtline
+1. get assests in projects
+   - things like pictures and text fonts in project folder
+   - note that fir images that say @3x and @2x means how these images look on small or big screens. You would use @1x for smaller screens and @3x for larger screens
+
+2. for image input use IMAGE VIEW and ATTRIBUTES(3)
+   • if image doesn’t look right try these:
+      a. aspect fit: fits the image in bounds
+      b. aspect fill: fills the image up in the image view
+
+  * You need CONSTRAINTS for the images, why when making apps images look good but when running app, image moves around
+     • for this you need AUTOLAYOUT constraint feature
+
+
+
